@@ -1,5 +1,7 @@
 ## 🔭 I’m currently not working
 
+### My work is chilling in VS Code. Please don't bother me.
+
 [![wakatime](https://wakatime.com/badge/user/4a18cde4-36c7-4b31-a6d0-c76827584531.svg)](https://wakatime.com/@4a18cde4-36c7-4b31-a6d0-c76827584531)
 
 <!--
