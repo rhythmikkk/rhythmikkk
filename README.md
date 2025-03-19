@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://wakatime.com/@4a18cde4-36c7-4b31-a6d0-c76827584531"><img src="https://wakatime.com/badge/user/4a18cde4-36c7-4b31-a6d0-c76827584531.svg" alt="Total time coded since Mar 2 2025" /></a>
+
 <!--
 **rhythmikkk/rhythmikkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
